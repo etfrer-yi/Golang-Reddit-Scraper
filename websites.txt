@@ -1,0 +1,7 @@
+https://go.dev/doc/tutorial/getting-started -> useful stuff for starting new Go project
+
+https://go.dev/doc/tutorial/create-module -> create and import a module
+
+https://go.dev/doc/articles/wiki/ -> wiki
+
+https://gobyexample.com/
